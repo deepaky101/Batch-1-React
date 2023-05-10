@@ -1,0 +1,10 @@
+ul{
+  display: flex;
+  justify-content: center;
+}
+
+li{
+  margin: 0.2rem 5rem;
+  list-style: none;
+  color: rgb(0, 0, 61);
+}
